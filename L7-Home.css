@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#headerImag {
+	position:relative;
+	margin:auto;
+}
+
+#nav{
+    list-style:none;
+    font-weight:bold;
+    margin-bottom:10px;
+    float:left;
+    width:100%;
+	font-size:28px;
+	position:absolute;
+	left:300px;
+	top:-96px;
+	
+}
+#nav li{
+    float:left;
+    margin-right:10px;
+    position:relative;
+}
+#nav a{
+    display:block;
+    padding:5px;
+    color:#333;
+    text-decoration:none;
+	font-family:'Ebrima', san-serif;
+}
+#nav a:hover{
+    color:black;
+    text-decoration:blink;
+}
+
+/*--- DROPDOWN ---*/
+#nav ul{
+    background:rgba(255,255,255,0);
+    list-style:none;
+    position:absolute;
+    left:-9999px;
+}
+#nav ul li{
+    padding-top:1px; 
+    float:none;
+}
+#nav ul a{
+    white-space:nowrap; 
+}
+#nav li:hover ul{ 
+    left:0;
+}
+#nav li:hover a{ 
+    text-decoration:underline;
+}
+#nav li:hover ul a{ 
+    text-decoration:none;
+}
+#nav li:hover ul li a:hover{
+    background:#333;
+}
+
+#twitterFeed {
+	position:absolute;
+	bottom:45px;
+	width:230px;	
+	margin:auto;
+	z-index:5;
+	left:45px;
+}
+
+#twitterBox {
+	position:absolute;
+	width:240px;
+	height:410px;
+	z-index:1;
+	background-color:#CCC;	
+	border-radius:5px;
+	bottom:45px;
+	left:40px;
+	margin:auto;
+}
+
+

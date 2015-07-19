@@ -1,0 +1,17 @@
+Lucky 7 Visions Website (HTML and CSS files) created by Jake Lille (aka. Fleake Graphics). All Rights Reserved.
+
+CSS animations and transitions provided by Daniel Eden from his "Animate.CSS" project found here: https://daneden.github.io/animate.css/
+I do not take credit for the code from the file "animate.css", as it strictly belongs to Daniel Eden.
+
+The Lucky 7 logo belongs to Lucky 7 Sniping and Lucky 7 Visions. I only take credit for the render that I did in Cinema 4D with it.
+
+All site resources were created (excluding the L7 logo concept) by Jake Lille (Fleake Graphics).
+
+Note from Fleake Graphics:
+
+"I give permission for the group 'Lucky 7 Visions' to have exclusive rights to use my work(s) that I provided in this folder as their
+branding through web fundamentals that can be used commercially and apt for monetization upon without my permission. However, I only require for you to
+keep the small watermark at the footer of the page (located in the HTML document 'L7-Home.html' and 'L7-Home.css' if Lucky 7 Visions uses my work(s)."
+
+
+All code will be released on Jake Lille's Github account.
